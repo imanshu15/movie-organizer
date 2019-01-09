@@ -1,0 +1,14 @@
+{
+    "formats":[
+        ".webm",
+        ".mkv",
+        ".flv",
+        ".vob",
+        ".avi",
+        ".mov",
+        ".wmv",
+        ".mp4",".m4p",".m4v",
+        ".mpg",".mpeg",
+        ".m4v"
+    ]
+}
